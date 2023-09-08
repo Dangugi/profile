@@ -57,7 +57,7 @@ h2{
 .aboutbio{
   font-size: 35px;
   color: black;
-  border: 5px solid darkred;
+  border: 5px solid lime;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-right-radius: 50px;
@@ -65,8 +65,8 @@ h2{
   margin: 20px;
   padding-left: 35px;
   line-height: 2.5;
-  background-color: gray;
-  word-spacing: 2rem;
+  background-color: powderblue;
+  word-spacing: 1rem; 
 }
 
 .b{
