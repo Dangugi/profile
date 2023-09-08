@@ -1,0 +1,169 @@
+body{
+  color: black;
+  background-color: lavender;
+  margin: 0;
+  margin-top: 0;
+}
+.header{
+  background-color: ;
+}
+  img{
+  border-radius:50%;
+  shadow: 5px red;
+  display: block;
+  margin-left: 35px;
+  margin-right: 55px;
+  margin-top: 90px;
+    float: left;
+}
+  
+h1{
+  font-size: 70px;
+  color: blue;
+  padding-top: 60px;
+}
+
+h2{
+  text-decoration: underline;
+  font-size: 55px;
+}
+
+.bio{
+  font-size: 50px;
+  line-height: 1.5;
+  padding-bottom: 10px;
+}
+
+.ccbtn{
+  text-align: right;
+  margin-right: 65px;
+}
+.button{
+  padding: 10px 5px;
+  margin: 15px;
+  background-color: darkgreen;
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  font-size: 40px;
+  border: 3px solid;
+  border-color: chartreuse;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.aboutbio{
+  font-size: 35px;
+  color: white;
+  background-color: black;
+  border: 5px solid darkred;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 80px;
+  border-bottom-right-radius: 80px;
+  border-bottom-left-radius: 80px;
+  margin: 25px;
+  padding-left: 35px;
+  line-height: 2.5;
+  background-image: url("header1.jpeg");
+  word-spacing: 3rem;
+}
+
+.b{
+  font-size: 45px;
+  color: darkgreen;
+}
+.social{
+  text-align: center;
+  padding: 25px;
+}
+.buttonsocial{
+  background-color: darkgreen;
+  border: 2px solid;
+  border-color: chartreuse;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  text-decoration: none;
+  font-size: 45px;
+  padding: 10px;
+  margin: 65px;
+  color:white;
+}
+
+.skills{
+  border: 4px solid powderblue;
+  background-color: black;
+  color: white;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin: 25px;
+  padding-left: 45px;
+  padding-bottom: 30px;
+}
+
+.skills1{
+  color: white;
+  font-size: 45px;
+}
+
+.buttonskills{
+  background-color: darkgreen;
+  border: 2px solid;
+  border-color: chartreuse;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  text-decoration: none;
+  font-size: 35px;
+  padding: 5px;
+  color: black;
+  margin-inline-end: 15px;
+  line-height: 90px;
+}
+.services{
+  text-align: center;
+  margin-top: 96px;
+}
+
+.button2{
+  background-color: red;
+  border: 2px solid;
+  border-color: chartreuse;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  text-decoration: none;
+  font-size: 55px;
+  padding: 5px;
+  color: white;
+  
+}
+.ach{
+  text-align: center;
+  color: black;
+  margin: 0;
+  font-size: 40px;
+  line-height: 0.99;
+}
+.big{
+  font-size: 55px;
+  margin: 0;
+  margin-top: 75px;
+}
+.company{
+  text-align: center;
+  font-size: 45px;
+  margin-top: 95px;
+}
+.button3{
+  color: crimson;
+  text-decoration: none;
+}
+
