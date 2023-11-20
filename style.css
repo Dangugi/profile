@@ -62,3 +62,12 @@ img{
   color: white;
   text-decoration: none;
 }
+.Twitter{
+ text-decoration: none; 
+ color: red;
+ font-size: 200px;
+}
+.follow{
+  text-align: center;
+  margin-top: 180px;
+}
