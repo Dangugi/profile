@@ -1,168 +1,64 @@
 body{
-  color: black;
-  background-color: lavender;
+  color: white;
+  background-color: black;
   margin: 0;
   margin-top: 0;
+  font-family: play;
 }
-.header{
-  background-color: ;
-}
-  img{
-  border-radius:50%;
-  shadow: 5px red;
-  display: block;
-  margin-left: 35px;
-  margin-right: 55px;
-  margin-top: 90px;
-    float: left;
-}
-  
 h1{
-  font-size: 70px;
-  color: blue;
-  padding-top: 60px;
-}
-
-h2{
-  text-decoration: underline;
-  font-size: 55px;
-}
-
-.bio{
-  font-size: 20px;
-  line-height: 1.5;
-  padding-bottom: 10px;
-}
-
-.ccbtn{
-  text-align: right;
-  margin-right: 65px;
-}
-.button{
-  padding: 10px 5px;
-  margin: 15px;
-  background-color: darkgreen;
-  text-decoration: none;
   color: white;
-  cursor: pointer;
-  font-size: 30px;
-  border: 3px solid;
-  border-color: chartreuse;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
+  font-size: 90px;
+  margin-bottom: 0;
+  margin-top: 150px;
 }
 
-.aboutbio{
+.heading{
+  margin-left: 40px;
   font-size: 35px;
-  color: black;
-  border: 5px solid lime;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  margin: 20px;
-  padding-left: 35px;
-  line-height: 2.5;
-  background-color: powderblue;
-  word-spacing: 1rem; 
+  margin-bottom: 80px;
 }
-
-.b{
-  font-size: 45px;
-  color: darkgreen;
+input[type="text"]{
+  width: 90%;
+  font-size: 25px;
+  margin: 45px;
+  margin-top: 20;
+  padding: 40px;
+  border: 5px solid darkgreen;
+  border-radius: 50px;
+  box-sizing: border-box;
 }
-.social{
+label[for="rating"]{
   text-align: center;
-  padding: 15px;
-}
-.buttonsocial{
-  background-color: darkgreen;
-  border: 2px solid;
-  border-color: chartreuse;
-  border-bottom-left-radius: 40px;
-  border-bottom-right-radius: 40px;
-  border-top-left-radius: 40px;
-  border-top-right-radius: 40px;
-  text-decoration: none;
-  font-size: 30px;
-  padding: 10px;
-  margin: 25px;
-  color:white;
-}
-
-.skills{
-  border: 4px solid powderblue;
-  background-color: black;
-  color: white;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  margin: 25px;
-  padding-left: 45px;
-  padding-bottom: 30px;
-}
-
-.skills1{
-  color: white;
-  font-size: 45px;
-}
-
-.buttonskills{
-  background-color: darkgreen;
-  border: 2px solid;
-  border-color: chartreuse;
-  border-bottom-left-radius: 40px;
-  border-bottom-right-radius: 40px;
-  border-top-left-radius: 40px;
-  border-top-right-radius: 40px;
-  text-decoration: none;
   font-size: 35px;
-  padding: 5px;
-  color: black;
-  margin-inline-end: 15px;
-  line-height: 90px;
+  margin: 45px;
 }
-.services{
-  text-align: center;
-  margin-top: 96px;
+input[type=text]:focus {
+  background-color: honeydew;
+  border: 5px solid red;
+  transition: 1s;
 }
-
-.button2{
-  background-color: red;
-  border: 2px solid;
-  border-color: chartreuse;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  text-decoration: none;
-  font-size: 55px;
-  padding: 5px;
+.log{
+  font-size: 50px;
+  padding: 15px 300px;
+  background-color: green;
+  border-radius: 50px;
   color: white;
-  
-}
-.ach{
-  text-align: center;
-  color: black;
-  margin: 0;
-  font-size: 40px;
-  line-height: 0.99;
-}
-.big{
-  font-size: 55px;
-  margin: 0;
-  margin-top: 75px;
-}
-.company{
-  text-align: center;
-  font-size: 45px;
-  margin-top: 95px;
-}
-.button3{
-  color: crimson;
   text-decoration: none;
 }
-
+.login{
+  text-align: center;
+  margin-top: 150px;
+}
+img{
+  width: 1000px;
+  margin-bottom: 50px;
+}
+.reg{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+.regi{
+  color: white;
+  text-decoration: none;
+}
